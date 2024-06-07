@@ -1,0 +1,92 @@
+.heroSection {
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+.introBlock {
+	padding: 20px; /* Add some padding if desired */
+}
+
+.blogContainer {
+	position: relative;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #eee2ca;
+}
+
+.cardsContainer {
+	margin-left: 5vw;
+	margin-right: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.cards {
+	margin: 24.71px;
+	display: flex;
+	justify-content: center; /* Horizontally center */
+	align-items: center; /* Vertically center */
+	height: 150px; /* This might need to be adjusted based on your layout */
+	backgroundcolor: #3a3a3a;
+}
+
+.heroTitle {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2.5rem;
+	margin-bottom: 1rem;
+}
+
+.introBlock img {
+	width: 100%; /* This will make the image take up the full width of the container */
+	height: 650px;
+}
+
+.heroButton {
+	background-color: #f39c12;
+	padding: 20px 40px;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+	transition: background-color 0.3s ease;
+}
+
+.heroButton:hover {
+	background-color: #d68910;
+}
+
+.welcomePara {
+	margin-bottom: 20px;
+}
+
+.welcomeBod {
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	background-color: #f4f4f4;
+	color: #333;
+}
+
+@media screen and (max-width: 1475px) {
+	.introBlock img {
+		height: 700px;
+	}
+}
+
+@media screen and (max-width: 1308px) {
+	.introBlock img {
+		height: 730px;
+	}
+}
+
+@media screen and (max-width: 1060px) {
+	.introBlock img {
+		height: 80vw;
+	}
+}
+
+@media screen and (max-width: 577px) {
+	.introBlock img {
+		width: 80vw;
+	}
+}

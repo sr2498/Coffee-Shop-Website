@@ -1,0 +1,28 @@
+.newsletterContainer {
+    background-color: var(--newslette-color);
+    color: var(--color-white);
+    font-family:var(--secondary-font);
+}
+
+
+.discountTitle {
+    color: var(--color-white);
+    font-family:var(--secondary-font);
+    font-size: 18px;
+}
+
+.discountSubTitle{
+    font-family:var(--secondary-font);
+    font-size: 18px;
+    text-align: center;
+    color:#fff1e4
+}
+
+@media screen and (max-width:768px) {
+    .discountSubTitle{
+        color: var(--color-white);
+        font-family:var(--secondary-font);
+        font-size: 14px;
+    }
+  }
+  

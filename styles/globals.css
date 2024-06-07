@@ -1,0 +1,44 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+:root {
+    /* Colors */
+    --color-primary: #EEE2CA;
+    --color-white: #fff;
+    --color-heroword: #AE835D;
+    --newslette-color: #1E453E;
+  
+  
+    /* Fonts */
+    --logo-font: 'Pacifico';
+    --primary-font: 'Montserrat', sans-serif;
+    --secondary-font: 'Lora', serif;
+  }
+  
+  
+  
+  html,
+  body {
+      margin: 0;
+      padding: 0;
+  }
+  
+  
+  body {
+    height:100%;
+    color: rgb(var(--foreground-rgb));
+  }
+  
+  .p-menubar {
+    justify-content: space-between;
+    background: #FBF5EC;
+  }
+  
+  .p-menubar-root-list {
+    font-family: var(--secondary-font);
+    font-weight: 600;
+  }
+  
+  
+  

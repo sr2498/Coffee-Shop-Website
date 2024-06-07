@@ -1,0 +1,45 @@
+/* privacypolicy.module.css */
+
+/* Add styles for the PrivacyPolicy component here */
+div {
+    margin: 2rem 0;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style heading elements */
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Style paragraphs */
+  p {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Style list items */
+  ul,
+  ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+  }
+  
+  /* Style links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

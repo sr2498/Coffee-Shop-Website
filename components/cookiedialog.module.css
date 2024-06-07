@@ -1,0 +1,23 @@
+.consetnContainer {
+    position: fixed;
+    top:90%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    backdrop-filter: blur(30px);
+    -webkit-backdrop-filter: blur(30px);
+    background-color:#ffe4ad;
+    border:1px solid #EEE2CA;
+}
+
+.consentok {
+    background-color: #AE835D!important;
+}
+
+
+.consentdecline {
+    background-color: #a59383!important;
+    
+}

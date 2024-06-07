@@ -1,0 +1,50 @@
+.advantureHeader {
+    font-family: 'Lora', serif;
+    font-size: 24px;
+    font-style: italic;
+    position: absolute;
+    bottom:10%;
+    left:50%;
+    transform:translateX(-50%);
+    color:#AE835D;
+    text-align: center;
+}
+
+
+.rewardHeader {
+    letter-spacing: .1rem;
+    font-family: 'Lora', serif;
+    text-align: center;
+    font-weight: 900;
+    color:#AE835D
+}
+
+.beanProgramHeader {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    font-weight: bold;
+    color:#AE835D
+}
+
+.beanProgramBody {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+@media screen and (max-width:768px) {
+    .advantureHeader {
+      font-size: 20px;
+    }
+  
+    .rewardHeader {
+      font-size: 35px;
+    }
+  
+    .letterHeader {
+      font-size: 24px;
+    }
+  
+   
+}

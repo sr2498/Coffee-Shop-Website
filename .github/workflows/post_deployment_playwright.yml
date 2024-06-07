@@ -1,0 +1,34 @@
+name: Playwright Tests Post Deployment
+on:
+  workflow_call:
+  repository_dispatch:
+    types: [my-event]
+jobs:
+  post-deploy-test:
+    timeout-minutes: 60
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install dependencies
+        run: npm ci
+      - name: Create env file
+        run: |
+          rm -rf .env
+          touch .env
+          echo URL=https://njit-wis.github.io/group-project-is601-851-teamb >> .env
+          echo APP_ENV=prod >> .env
+      - name: Read env file
+        run: cat .env
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+      - name: Run Playwright tests
+        run: npx playwright test
+      - uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 1
