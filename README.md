@@ -1,6 +1,6 @@
 # Coffee-Shop-Website
 
-This is my group project and we all four group members had completed this website using agile methodology. 
+This is my group project and we all four group members completed this website using HTML, TailwindCSS, React.js, Node.js, Figma, GitHub, GitHub Actions, DevOps and agile methodology. 
 Journey Bean Coffee Shop website is designed to be inviting and easy to use, reflecting the friendly atmosphere of the cafe. 
 This website gives visitors a sense of the cozy, community-focused and coffee-loving atmophere they can expect when visiting in person.
 
