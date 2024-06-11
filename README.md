@@ -12,21 +12,21 @@ This website gives visitors a sense of the cozy, community-focused and coffee-lo
 - Join
 
 ## Homepage
-A beautiful large coffee photo with a warm message "Sign up to get a free drink", attract the visitors on Homepage of our website.
+The Home webpage has a beautiful large coffee photo with a warm message "Sign up to get a free drink", attract the visitors on Homepage of our website.
 Easy to find links to navigate different webpages such as Menu, Blog, About and Join.
 We have faceback, twitter links and sign up button at the bottom of Homepage.
 
 ## Menu
-A list of different flavors of coffee are given here.
+The Manu webpage has a list of different flavors of coffee are given here.
 
 ## About
-A brief history of Journey Bean Coffee Shop, its mission and values are given here with large coffee photo.
+The About webpage has a brief history of Journey Bean Coffee Shop, its mission and values are given here with large coffee photo.
 
 ## Blog
-It has a beautiful coffee photo and Posts about events and community activies.
+The Blog webpage has a beautiful coffee photo and Posts about events and community activies.
 
 ## Join
-A simple form to take your email id through which we can provide our offers and events updates.
+The Join webpage has only a simple form to take your email id through which we can provide our offers and events updates.
 We have used Mailchimp for our website.
 
 **Figma Design**: _[See here](https://www.figma.com/file/9Dig8nPAA4VnpKSH5dWHzS/Journey-Beans?type=design&node-id=0-1&mode=design&t=Sk7EAJS6bLNEqSkA-0)_.
