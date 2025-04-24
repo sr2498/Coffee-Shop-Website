@@ -6,10 +6,8 @@ import "primereact/resources/themes/md-light-indigo/theme.css";
 //core
 import "primereact/resources/primereact.min.css";
 import "../node_modules/primeflex/primeflex.css";
-
 import "primeicons/primeicons.css";
 import "primeflex/primeflex.css";
-
 import "material-icons/iconfont/material-icons.css";
 
 export default function App({ Component, pageProps }) {
