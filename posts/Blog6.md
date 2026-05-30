@@ -35,4 +35,4 @@ We believe that a coffee shop is more than just a place to drink coffee; it's a 
 
 Join us in one of our neighborhood locations and become part of our extended coffee family. We can't wait to share a cup with you.
 
-#LocalLove #CommunityBrew #CoffeeConnection
+#LocalLove #CommunityBrew #CoffeeConnection  
