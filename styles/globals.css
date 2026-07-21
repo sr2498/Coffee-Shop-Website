@@ -9,14 +9,11 @@
     --color-heroword: #AE835D;
     --newslette-color: #1E453E;
   
-  
     /* Fonts */
     --logo-font: 'Pacifico';
     --primary-font: 'Montserrat', sans-serif;
     --secondary-font: 'Lora', serif;
   }
-  
-  
   
   html,
   body {
@@ -39,6 +36,3 @@
     font-family: var(--secondary-font);
     font-weight: 600;
   }
-  
-  
-  
