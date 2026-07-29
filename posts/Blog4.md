@@ -3,6 +3,7 @@ title: "A Rainbow of Support: Our Coffee Shop's Commitment to the LGBTQ+ Communi
 date: '2019-12-15'
 ---
 
+
 At **The Coffee Connection**, we believe that love is love, and everyone is welcome. Our coffee shop has always been a place where people can gather, share, and feel accepted. As part of our ongoing commitment to diversity and inclusion, we're proud to stand with the LGBTQ+ community. Here's how we're putting our support into action.
 
 ### A Safe Space
@@ -31,4 +32,6 @@ At **The Coffee Connection**, we understand that true support is continuous and 
 
 So next time you enjoy a cup of coffee at our shop, know that you're part of a place that stands for love, acceptance, and equality. Whether you're a member of the LGBTQ+ community or an ally, we invite you to join us in creating a world where everyone can be themselves, freely and proudly.
 
+
 #LoveIsLove #CoffeeWithPride
+
