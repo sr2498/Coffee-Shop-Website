@@ -5,16 +5,16 @@ Journey Bean Coffee Shop is a responsive web application developed as a group pr
 Our team collaborated throughout the development process using Agile methodology and DevOps practices, with GitHub for version control and GitHub Actions for workflow automation.
 
 ## Technologies
-- HTML5 – Website structure
-- Tailwind CSS – Responsive design and styling
-- React.js – Reusable and interactive UI components
-- Node.js – Backend and development support
-- Figma – UI/UX design and prototyping
-- Git & GitHub – Version control and team collaboration
-- GitHub Actions – Workflow and CI/CD automation
-- Mailchimp – Email subscription integration
-- Agile Methodology – Team collaboration and iterative development
-- DevOps Practices – Development workflow and automation
+- **HTML5 –** Website structure
+- **Tailwind CSS –** Responsive design and styling
+- **React.js -** Reusable and interactive UI components
+- **Node.js -** Backend and development support
+- **Figma -** UI/UX design and prototyping
+- **Git & GitHub -** Version control and team collaboration
+- **GitHub Actions -** Workflow and CI/CD automation
+- **Mailchimp -** Email subscription integration
+- **Agile Methodology -** Team collaboration and iterative development
+- **DevOps Practices -** Development workflow and automation
 
 ## Key Features
 - Responsive and user-friendly design
